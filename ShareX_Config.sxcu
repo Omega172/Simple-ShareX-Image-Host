@@ -1,0 +1,15 @@
+﻿{
+  "Version": "15.0.0",
+  "Name": "example.com Upload",
+  "DestinationType": "ImageUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://example.com/upload.php",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "secret": "SuperSecretKey",
+    "title": "example.com",
+    "author": "Your Username",
+    "color": "#00ffff"
+  },
+  "FileFormName": "sharex"
+}
