@@ -1,0 +1,2 @@
+# Simple ShareX Image Host
+ 
